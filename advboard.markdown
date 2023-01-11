@@ -1,0 +1,6 @@
+---
+layout: advboard
+permalink: /advboard/
+---
+
+

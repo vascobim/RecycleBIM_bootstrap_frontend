@@ -1,0 +1,5 @@
+---
+layout: partners
+permalink: /partners/
+---
+
