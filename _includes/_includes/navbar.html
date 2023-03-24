@@ -1,0 +1,35 @@
+<nav class="navbar sticky-top navbar-expand-lg navbar-light bg-white border-bottom py-2 px-md-2 my-0">
+    <div class="container-fluid ">
+      <a class="navbar-brand col-8 col-sm-auto" href="{{ '/'| prepend: site.baseurl }}">
+        <img src="{{ site.logo | prepend: site.baseurl }}" class="img-fluid">
+      </a>
+      <button class="navbar-toggler float-xs-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ms-auto mb-2 mb-lg-0 text-secondary">
+          <li class="nav-item px-3">
+            <a class="nav-link" aria-current="page" href="{{ '/'| prepend: site.baseurl }}">Home</a>
+          </li>
+          <li class="nav-item px-3">
+            <a class="nav-link" aria-current="page" href="{{ '/project/' | prepend: site.baseurl }}">Project</a>
+          </li>
+          <li class="nav-item px-3">
+            <a class="nav-link" href="{{ '/partners/' | prepend: site.baseurl }}">Partners</a>
+          </li>
+          <li class="nav-item px-3">
+            <a class="nav-link" aria-current="page" href="{{ '/team/' | prepend: site.baseurl }}">Team</a>
+          </li>
+            <li class="nav-item px-3">
+              <a class="nav-link" aria-current="page" href="{{ '/advboard/' | prepend: site.baseurl }}">Adv. Board</a>
+          </li>
+          <li class="nav-item px-3">
+            <a class="nav-link" aria-current="page" href="{{ '/news/' | prepend: site.baseurl }}">News</a>
+          </li>
+          <li class="nav-item px-3">
+            <a class="nav-link" href="{{ '/contact/' | prepend: site.baseurl }}">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>

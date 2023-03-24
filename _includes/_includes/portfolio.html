@@ -1,0 +1,39 @@
+ <!-- Advisory Portfolio -->
+<div class="container py-4">
+    <div class='row'>
+        <div class="col py-4 py-md-5">
+            <p class="h4 text-recycle">
+                ADVISORY BOARD 
+                </p>
+                <p class="h6 text-recycle"> 
+                    MEMBER PORTFOLIO 
+                    </p>
+        </div>
+    </div> 
+    
+    <div class="col col-12 col-sm-6 col-md-4">
+        <div class="row">
+            <div class="col align-self-start">
+            <img class="img-person" src="{{page.img | prepend:site.baseurl }}" alt="" class="img-fluid px-lg-0">
+            </div>
+            </div>
+                <div class="row">
+                    <b class="py-3 h4 text-recycle ">
+                    {{page.name}}
+                    </b>
+                </div>
+                <div class="row">
+                    <div class="pt-0">
+                    <b>
+                        {{page.institution}}
+                        </b>  
+                    </div>
+            </div>
+        </div>
+            <p class="text-body pt-1 lh-base">
+                <p style="text-align:justify;">
+                {{page.description}}
+            </p> 
+        </div>
+    </div>    
+</div>
