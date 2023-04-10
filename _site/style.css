@@ -17,6 +17,8 @@ nav{
     box-shadow: none;
 }
 
+/*image of the homepage*/
+
 .img-new {
     max-width: 900px;
 }
@@ -45,7 +47,7 @@ nav{
     background-color: transparent;
     border: none;
     border-radius: 5px;
-    padding: none;
+    padding: none;   /*alterar o padding e definir a margem do buttom - rever esta definição em css*/
 
 }
 
@@ -128,6 +130,7 @@ a.partner-link:hover{
     transform: scale(1.01);
 }
 
+/*advisory board images*/
 .img-person{
     width: 250px;
     height: auto;
@@ -145,6 +148,28 @@ small{
 .img-news:hover{
     transform: scale(1.01);
 }
+ /*sign up newsletter */
+
+.Signup{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+
+.signup{
+    margin-top: 50px;
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+.input{
+    display: block;
+    width: 200px;
+    height: 40px;
+    margin: 10px;
+    border: none;
+    font-size: 20px;
+}
 
 .text-recycle{
     color: #2e8b57ff;
@@ -160,6 +185,15 @@ small{
     background-color:#2e8b57ff ;
     border-color: #2e8b57ff;
     transform: scale(1.01);
+}
+
+ /*footer */
+
+.logosocialmed{
+    color:blanchedalmond;
+    max-height: 30px;
+    width: auto;
+    filter: brightness(0) invert(1);
 }
 
 .copyright-footer{
