@@ -141,7 +141,7 @@ small{
 .img-news:hover{
     transform: scale(1.01);
 }
- /*sign up newsletter */
+ /*sign up newsletter 
 
 .signup{
     display: flex;
@@ -153,7 +153,7 @@ small{
     margin-top: 50px;
     text-align: left;
     margin-bottom: 50px;
-}
+} */
 
 .input{
     display: block;
