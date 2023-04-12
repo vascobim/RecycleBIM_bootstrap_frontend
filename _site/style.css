@@ -35,25 +35,17 @@ nav{
 }
 
 .btn-header{
-    position: relative;
+    position: absolute ;
     top:0;
     left:0;
     display: flex;
-    margin: auto;
-    width: 100%;
-    height: 100%;
+    width: 3%;
+    height: 3%;
     font-size: 8px;
-    color: transparent;
-    background-color: transparent;
+    color: transparent; 
+    background-color: transparent; 
     border: none;
-    border-radius: 5px;
-    padding: none;   /*alterar o padding e definir a margem do buttom - rever esta definição em css*/
-
-}
-
-.btn-header:hover{
-    color:white;
-    transform: scale(1.01);
+       /*alterar o padding e definir a margem do buttom - rever esta definição em css*/
 }
 
 .btn-header{
@@ -133,8 +125,7 @@ a.partner-link:hover{
 /*advisory board images*/
 .img-person{
     width: 250px;
-    height: auto;
-    
+    height: auto; 
 }
 
 .img-person:hover{
@@ -148,9 +139,9 @@ small{
 .img-news:hover{
     transform: scale(1.01);
 }
- /*sign up newsletter */
+ /*sign up newsletter 
 
-.Signup{
+.signup{
     display: flex;
     justify-content: center;
     height: 100vh;
@@ -160,7 +151,7 @@ small{
     margin-top: 50px;
     text-align: left;
     margin-bottom: 50px;
-}
+} */
 
 .input{
     display: block;
