@@ -1,7 +1,7 @@
 ---
 layout: new_layout
 title:  "RecycleBIM 1st Year Annual meeting "
-date:   2023-03-23 
+date:   2023-03-24 
 categories: project news
 img: /img/news/M12meeting.jpg.
 ---

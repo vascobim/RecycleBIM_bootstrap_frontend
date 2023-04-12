@@ -18,7 +18,6 @@ nav{
 }
 
 /*image of the homepage*/
-
 .img-new {
     max-width: 900px;
 }
@@ -96,7 +95,6 @@ a.post-link:hover{
 .img-partner{
     max-width: min(150px, 100%);
     max-height: 100%;
-
 }
 
 .img-partner:hover{
@@ -179,7 +177,6 @@ small{
 }
 
  /*footer */
-
 .logosocialmed{
     color:blanchedalmond;
     max-height: 30px;
