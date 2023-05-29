@@ -76,6 +76,21 @@ nav{
     animation-duration: 1s;
 }
 
+.logosocialmed2{
+    color:blanchedalmond;
+    max-height: 20px;
+    width: auto;
+    filter:rgb(99, 98, 98);
+}
+
+/*
+.logosocialmed2:hover{
+    color: #2e8b57ff;
+    outline: none;
+    box-shadow: none;
+}
+*/
+
 .profile-img{
     max-height: 200px;
     height: 100%;
@@ -137,14 +152,14 @@ small{
 .img-news:hover{
     transform: scale(1.01);
 }
- /*sign up newsletter 
+ /*sign up newsletter */
 
 .signup{
     display: flex;
     justify-content: center;
-    height: 100vh;
+    height: 30px;
 }
-
+/*
 .signup{
     margin-top: 50px;
     text-align: left;
@@ -155,8 +170,8 @@ small{
     display: block;
     width: 200px;
     height: 40px;
-    margin: 10px;
-    border: none;
+    margin: 50px;
+    border:black;
     font-size: 20px;
 }
 

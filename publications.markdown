@@ -1,0 +1,6 @@
+---
+layout: publications
+permalink: /publications/
+---
+
+
