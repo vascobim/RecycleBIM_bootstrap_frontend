@@ -145,6 +145,11 @@ a.partner-link:hover{
     transform: scale(1.05);
 }
 
+/*Publications title*/
+.pubtitle{
+    font-size:1.2rem
+}
+
 small{
     font-size: 0.7rem;
 }
