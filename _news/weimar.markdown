@@ -1,6 +1,6 @@
 ---
 layout: new_layout
-title:  "RecycleBIM theV International Conference Progress of Recycling in the 
+title:  "RecycleBIM in the V International Conference Progress of Recycling in the 
 Built Environment"
 date:   2023-10-12 12:11:00 +0100 
 categories: project news
