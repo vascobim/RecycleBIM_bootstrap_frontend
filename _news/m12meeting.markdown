@@ -3,7 +3,7 @@ layout: new_layout
 title:  "RecycleBIM 1st Year Annual meeting "
 date:   2023-03-24 
 categories: project news
-img: /img/news/M12meeting.jpg.
+img: img/news/M12meeting.jpg
 ---
 
 The ReycleBIM Consortium just held its 2023 first bi-annual general meeting on March 24th! The meeting enabled all members to meet remotely and draw conclusions about the progress of the project, while promoting collaboration between all groups.
