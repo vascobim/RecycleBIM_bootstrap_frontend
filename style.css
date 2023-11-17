@@ -78,6 +78,7 @@ nav{
     animation-duration: 1s;
 }
 
+/* logo das redes */
 .logosocialmed2{
     color:blanchedalmond;
     max-height: 20px;
@@ -138,6 +139,28 @@ a.partner-link:hover{
 }
 
 /*advisory board images*/
+
+/*advisory board cards
+.card {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  .card h2 {
+    font-size: 1.5rem;
+    margin: 0;
+  }
+  
+  .card p {
+    margin: 10px 0;
+  }
+  */
+  
+/*definição dos membros adisory board*/
 .img-person{
     width: 250px;
     height: auto; 
@@ -159,6 +182,20 @@ small{
 .img-news:hover{
     transform: scale(1.01);
 }
+/*news def */
+.img-news {
+    max-width: 300px;
+    max-height: 300px ;
+}
+
+/*new def */
+
+.img-new {
+    width: auto;
+    height: 400px;
+}
+
+
  /*sign up newsletter */
 
 .signup{
