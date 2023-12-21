@@ -1,6 +1,6 @@
 ---
 layout: new_layout
-title:  "Presentation a the UMinho & UVigo Research Forum"
+title:  "RecycleBIM project presentation at the UMinho & UVigo Research Forum"
 date:   2023-11-22 12:11:00 +0100
 categories: project news
 img: /img\news\um_uv_forum.jpg
